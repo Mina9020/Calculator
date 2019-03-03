@@ -11,6 +11,6 @@ void main(void){
 
 void init(void){
 	
-	printf("hello world");
+	printf("hello world for the second time");
 	
 }
